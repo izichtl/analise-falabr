@@ -332,8 +332,3 @@ Existem **125 municípios únicos de destino** para as manifestações, incluind
 ## Considerações Finais
 
 Este projeto fornece insights valiosos sobre as manifestações registradas no sistema Fala.BR, auxiliando na identificação de padrões e tendências que possam contribuir para a melhoria dos serviços públicos. A análise focada no estado da Paraíba visa fortalecer a compreensão da participação cidadã e da eficácia das respostas a demandas locais a nível municipal.
-
-Para mais informações sobre a Controladoria-Geral da União e o sistema Fala.BR, visite:
-
-- [Controladoria-Geral da União (CGU)](https://www.gov.br/cgu/)
-- [Fala.BR - Plataforma Integrada de Ouvidoria e Acesso à Informação](https://falabr.cgu.gov.br/)
