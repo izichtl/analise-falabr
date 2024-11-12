@@ -1,6 +1,8 @@
 # Análise de Dados de Manifestações do FalaBR e Estado da Paraíba
 
-Este projeto realiza uma análise detalhada das manifestações registradas na plataforma Fala.BR, que coleta dados de ouvidoria e acesso à informação de cidadãos. O foco da análise é fornecer uma base de inteligência de dados preliminar e um panorama sobre a relação do estado da Paraíba com as manifestações registradas no Fala.BR. Os dados foram extraídos do portal de Dados Abertos da Controladoria-Geral da União (CGU) e incluem diversos tipos de manifestações, como reclamações, solicitações e elogios, direcionados a diferentes municípios e estados.
+> Realizada em: 12/11/2024
+
+Este projeto realiza uma análise preliminar das manifestações registradas na plataforma Fala.BR, focando na relação do estado da Paraíba com essas manifestações. Os dados, extraídos do portal de Dados Abertos da Controladoria-Geral da União (CGU), incluem reclamações, solicitações, elogios e outros tipos de manifestações direcionadas a diferentes municípios e estados. O objetivo é fornecer uma base inicial de inteligência de dados para avaliação da participação cívica e demandas municipais.
 
 ## Objetivos
 
