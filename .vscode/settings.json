@@ -1,0 +1,15 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#9be479",
+    "titleBar.activeBackground": "#9be479",
+    "titleBar.activeForeground": "#000000",
+    "tree.indentGuidesStroke": "#ef0505"
+  },
+  "prettier.semi": false,
+  "editor.formatOnSave": true,
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "workbench.tree.indent": 13,
+  "workbench.tree.renderIndentGuides": "always",
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true
+}
